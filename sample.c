@@ -5,7 +5,8 @@ int main()
     for
         example
         {
-            printf("hello world");
+            dadasd
+                printf("hello world");
         }
     return 0;
 }
